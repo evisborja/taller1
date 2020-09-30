@@ -1,0 +1,19 @@
+.mai {
+ background-color: rgb(252, 228, 244);
+ color:black;
+ font-family: 'Lucida Sans'; 
+}
+
+.footer {
+    text-align: center;
+    color: black;
+    background-color: rgb(248, 201, 201);
+}
+
+h3 {
+    font-family: 'Lucida Sans';
+}
+
+.bod {
+    background-color: rgb(252, 228, 244);
+}
